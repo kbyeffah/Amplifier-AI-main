@@ -44,9 +44,11 @@ export default async function Home() {
           <p className="max-w-[600px] text-lg text-muted-foreground">
             Easily embed our AI-powered sales assistant and lead generation tool into any website with just a snippet of code!
           </p>
-          <Button className="bg-orange text-white px-8 py-6 text-lg rounded-full transition-all duration-300 shadow-lg hover:shadow-xl">
-            Get Started Now <ChevronRight className="ml-2" />
-          </Button>
+          <Link href="/dashboard">
+  <Button className="bg-orange text-white px-8 py-6 text-lg rounded-full transition-all duration-300 shadow-lg hover:shadow-xl">
+    Get Started Now <ChevronRight className="ml-2" />
+  </Button>
+</Link>
           <div className="relative w-full max-w-4xl mt-12 rounded-lg overflow-hidden shadow-2xl">
             <Image
               src="/images/desktopamplifier.png"
