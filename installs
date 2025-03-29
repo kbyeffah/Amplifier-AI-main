@@ -1,0 +1,56 @@
+npm install axios
+npm install html-react-parser
+npm install @uploadcare/react-uploader
+npm install pusher
+npm install pusher-js
+npm install nodemailer
+npm install --save-dev @types/nodemailer
+npm install openai
+npm install stripe
+npm install @stripe/react-stripe-js @stripe/stripe-js
+npm install @clerk/nextjs
+npm install prisma
+npm install uploadcare-widget
+npm install pusher pusher-js
+npm install stripe
+
+backend.app.py
+I tried to generate leads but see:
+New project
+Business Name
+Ezforms
+Business Description
+E.g, The easiest way to create forms.
+Website Link
+www.example.com
+Location
+United States
+Industry
+Technology
+Target Audience Preferences
+E.g, Leads looking for marketing solutions.
+Keyword for Lead Generation
+Marketing automation
+Generate Leads
+Back to projects
+Reddit Leads
+Title: Reddit Post
+
+Sentiment: positive
+
+Generated Comment: Check out EzForms!
+
+URL: https://reddit.com/r/test/post
+
+Twitter Leads
+Tweet: Need a form builder for my startup
+
+User: twitter_user
+
+Sentiment: neutral
+
+Generated Comment: EzForms might be what you need!
+
+Posted: 2023-10-02
+
+URL: https://twitter.com/user/status/123
